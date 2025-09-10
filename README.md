@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Changes made from main
 change 1 from new
 change 2 from new
+Another change after adding in gitignore
